@@ -1,1 +1,1 @@
-https://travis-ci.org/edizuslu/myDemoApp.svg?branch=master
+[![Build Status](https://travis-ci.org/edizuslu/myDemoApp.svg?branch=master)](https://travis-ci.org/edizuslu/myDemoApp)
