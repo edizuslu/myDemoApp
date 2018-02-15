@@ -23,10 +23,12 @@ public class App
       return false;
     }
 
+
+
     public static void main(String[] args) {
         port(getHerokuAssignedPort());
 
-        get("/", (req, res) -> "Hello, World");
+        get("/", (req, res) -> "Hello, Ediz");
 
         post("/compute", (req, res) -> {
           //System.out.println(req.queryParams("input1"));
